@@ -1,0 +1,15 @@
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\BankamatikUygulaması.exe
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\BankamatikUygulaması.deps.json
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\BankamatikUygulaması.runtimeconfig.json
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\BankamatikUygulaması.dll
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\ref\BankamatikUygulaması.dll
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\bin\Debug\net6.0\BankamatikUygulaması.pdb
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.csproj.AssemblyReference.cache
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.AssemblyInfoInputs.cache
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.AssemblyInfo.cs
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.dll
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\ref\BankamatikUygulaması.dll
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.pdb
+C:\Users\eray4\OneDrive\Masaüstü\BankamatikUygulaması\obj\Debug\net6.0\BankamatikUygulaması.genruntimeconfig.cache
